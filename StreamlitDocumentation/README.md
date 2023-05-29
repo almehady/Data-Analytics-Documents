@@ -1,6 +1,7 @@
 # Streamlit
 
 ** Install everything on requirements.txt before running the app
+
 ** To run the app use the following command 'streamlit run letslearnStreamlit.py'
 
 Topics Covered 
